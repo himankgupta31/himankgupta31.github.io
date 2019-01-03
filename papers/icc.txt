@@ -1,0 +1,12 @@
+@INPROCEEDINGS{8422335, 
+author={D. Mishra and H. Gupta and B. R. Tamma and A. A. Franklin}, 
+booktitle={2018 IEEE International Conference on Communications (ICC)}, 
+title={KORA: A Framework for Dynamic Consolidation amp; Relocation of Control Units in Virtualized 5G RAN}, 
+year={2018}, 
+volume={}, 
+number={}, 
+pages={1-7}, 
+keywords={5G mobile communication;cloud computing;computer centres;energy consumption;integer programming;linear programming;radio access networks;resource allocation;software defined networking;telecommunication power management;telecommunication traffic;virtualisation;KORA;dynamic consolidation & relocation;network architecture;dynamic resource management framework;C-RAN architecture;control units;software defined networking;resource management strategies;remote radio units;virtualized 5G RAN;fifth generation mobile networks;leveraging network functions virtualization;5G cloud radio access network considering spatio-temporal traffic heterogeneity;Copper;Servers;5G mobile communication;Resource management;Cloud computing;Data centers;Computer architecture}, 
+doi={10.1109/ICC.2018.8422335}, 
+ISSN={1938-1883}, 
+month={May},}

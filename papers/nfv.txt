@@ -1,0 +1,12 @@
+@INPROCEEDINGS{8169875, 
+author={H. Gupta and D. Manicone and F. Giannone and K. Kondepu and A. Franklin and P. Castoldi and L. Valcarenghi}, 
+booktitle={2017 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)}, 
+title={How much is fronthaul latency budget impacted by RAN virtualisation ?}, 
+year={2017}, 
+volume={}, 
+number={}, 
+pages={315-320}, 
+keywords={3G mobile communication;jitter;next generation networks;quality of service;radio access networks;telecommunication signalling;telecommunication traffic;virtual machines;virtualisation;RAN virtualisation;fronthaul latency budget;heavy virtualisation methods;light virtualisation methods;DU-CU communication;intra-PHY split;Option 7-1;Standard Developing Organisations;latency requirement;selected functional split;fronthaul network;virtual machines;Virtual RAN approach;Central Unit;Distributed Unit;evolved NodeB functions;3GPP;New RAN;New Radio Access Network architecture;Jitter;Kernel;3GPP;Long Term Evolution;Delays;5G mobile communication;Conferences;5G;functional split;virtualisation;latency;jitter}, 
+doi={10.1109/NFV-SDN.2017.8169875}, 
+ISSN={}, 
+month={Nov},}

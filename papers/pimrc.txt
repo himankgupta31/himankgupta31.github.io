@@ -1,0 +1,12 @@
+@INPROCEEDINGS{8292226, 
+author={S. T. V. Pasca and H. Gupta and B. R. Tamma and A. A. Franklin}, 
+booktitle={2017 IEEE 28th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC)}, 
+title={PRECISE: Power aware dynamic traffic steering in tightly coupled LTE Wi-Fi networks}, 
+year={2017}, 
+volume={}, 
+number={}, 
+pages={1-7}, 
+keywords={3G mobile communication;decision making;integer programming;interference suppression;Long Term Evolution;nonlinear programming;protocols;quality of service;radio access networks;radiofrequency interference;telecommunication scheduling;telecommunication traffic;wireless LAN;tightly coupled LTE Wi-Fi networks;complete solution;data requirement;telecom operators;unlicensed spectrum;C-LWIP;radio protocol stack;unified control decision;high co-tier interference;transmit power;LWIP node;PRECISE algorithm;flow steering;multiple LWIP nodes;3GPP Rel-12 LTE Wi-Fi;colocated LWIP;mixed integer nonlinear programming problems;interference mitigation subproblem;bit rate flow requirements;multiattribute decision;power aware dynamic traffic steering algorithm;Wi-Fi radio level integration;WiFi access point;eNodeB;IPsec tunnel;Wireless fidelity;Interference;Long Term Evolution;Throughput;Heuristic algorithms;Rats;Quality of service}, 
+doi={10.1109/PIMRC.2017.8292226}, 
+ISSN={2166-9589}, 
+month={Oct},}
