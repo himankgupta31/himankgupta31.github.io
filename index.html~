@@ -86,17 +86,9 @@ font-weight: bold;
         </tr>
       </tbody>
     </table>
-    <br>
+    <!-- <br> -->
   <div class = "tab">
-  <p style="margin-left:10px; margin-right:10px"><i class="fa fa-pencil"></i><a href="#aboutme">About Me &emsp;&emsp;&emsp;
-
-  </a> <i class="fa fa-graduation-cap"></i><a href="#education">Education &emsp;&emsp;&emsp;
-
-  </a> <i class="fa fa-institution"></i><a href="#aboutme">Experience &emsp;&emsp;&emsp;
-
-  </a> <i class="fa fa-book"></i><a href="#aboutme">Publications &emsp;&emsp;&emsp;
-
-  </a> <i class="fa fa-paper-plane-o"></i><a href="#aboutme">Contact Me</a> </p>
+  <p style="margin-left:10px" style="margin-right:10px"><i class="fa fa-pencil"></i><a href="#aboutme">About Me &emsp;&emsp;&emsp;</a> <i class="fa fa-graduation-cap"></i><a href="#aboutme">Education &emsp;&emsp;&emsp;</a> <i class="fa fa-institution"></i><a href="#aboutme">Experience &emsp;&emsp;&emsp;</a> <i class="fa fa-book"></i><a href="#aboutme">Publications &emsp;&emsp;&emsp;</a> <i class="fa fa-paper-plane-o"></i><a href="#aboutme">Contact Me</a> </p>
 </div>
 
         <p><a name="aboutme"></a><b><font face="verdana" size="5">About me</font></b>  </p>
@@ -104,163 +96,30 @@ font-weight: bold;
         I am a final year Master student in the department of Computer Science and Engineering at 
         <a href="https://cse.iith.ac.in/">Indian Institute of Technology Hyderabad (IITH)</a>. 
         I work with Prof. <a href="http://www.iith.ac.in/~tbr/"> Antony Franklin A.</a> and Prof. <a href="http://www.iith.ac.in/~antony/"> Bheemarjuna Reddy Tamma.</a>
-        My research interests include <em> Computer Network, IoT, Software-Defined networking, Wireless & Cellular Network, Data Mining, Machine Learning, Information Retrieval and deep learning</em>. On the application side, I have
-        developed a prototype for LTE-Wi-Fi aggregation and Cloud-RAN architecture using <a href="https://www.openairinterface.org/"> OpenAirInterface5g</a>
-         . </p>
+        My research interests include <em> Computer Network, Software-Defined networking, Wireless Network, Data Mining, Machine Learning, Information Retrieval and deep learning</em>. On the theoretical side, I am 
+        interested in the optimization algorithms of deep learning. On the application side, my recent work is focusing 
+        on image and video understanding, including object detection and activity recognition. </p>
       <br>
-      <!-- <p style="margin-top: 3px; margin-bottom: 3px;"> <font style="font-size: 12pt;" face="verdana">
+      <p style="margin-top: 3px; margin-bottom: 3px;"> <font style="font-size: 12pt;" face="verdana">
         I received my master from Tufts University </a> in 2015. Before coming to US, I received my 
         master from Graduate University of Chinese Academy of Sciences in 2012, 
         and my B.S. in physics from Hunan Normal University in 2009. <br>
       </p>
-      <br> -->
-      <!-- <p style="margin-top: 3px; margin-bottom: 3px;"> <font style="font-size: 12pt;" face="verdana">
+      <br>
+      <p style="margin-top: 3px; margin-bottom: 3px;"> <font style="font-size: 12pt;" face="verdana">
         <b> I am actively looking for full time job on Computer Vision and Deep Learning.</b>
         </p>
-      <br> -->
-      
-  <p> <b><a name="education"></a><font face="verdana" size="5">Education</font></b></p>
-  <!-- <hr style="margin-left:75px;"> -->
-  <table id="p" style="border-width: 0px;" border="1" width="1200" height="120"> 
-    <tbody>
-    <tr>
-    <h2> 2016 - 2018</h2>
-      <td style="border-style: none; border-width: medium;" valign="top" width="19">&nbsp; </td>
-      <td style="border-style: none; border-width: medium;" valign="top" bgcolor="#B0E0E6" width="1"> &nbsp; </td>
-      <td style="border-style: none; border-width: medium;" valign="top" width="1100">
-                <p style="margin-left: 10px; line-height: 150%; margin-top: 8px; margin-bottom: 8px;">
-        <i><font face="verdana" color="#000000">Indian Institute of Technology Hyderabad</font></i>
-        <font face="verdana"><i><font style="font-size: 12pt;"><br> </font></i></font> 
-        <font face="verdana" size="3" color="#000000">Masters of Technology (M.Tech)</font><br>
-        <font face="verdana" size="3" color="#000000">Computer Science & Engineering</font><b>
-        <font face="verdana" size="2" color="#000000"><br> </font></b>
-        <font face="verdana" size="3" color="#000000"> GPA: 9.15 </font>
-        <font face="verdana" size="2">
-        <font color="#808080">
-        </font></font>
-      </p>
-      </td>
-          </tr>
-    </tbody>
-    </table> 
-	<table id="p" style="border-width: 0px;" border="1" width="1200" height="120"> 
-    <tbody>
-    <tr>
-    <h2> 2010 - 2014</h2>
-      <td style="border-style: none; border-width: medium;" valign="top" width="19">&nbsp; </td>
-      <td style="border-style: none; border-width: medium;" valign="top" bgcolor="#B0E0E6" width="1"> &nbsp; </td>
-      <td style="border-style: none; border-width: medium;" valign="top" width="1100">
-                <p style="margin-left: 10px; line-height: 150%; margin-top: 8px; margin-bottom: 8px;">
-        <i><font face="verdana" color="#000000">G. B. Pant University of Agriculture and Technology</font></i>
-        <font face="verdana"><i><font style="font-size: 12pt;"><br> </font></i></font> 
-        <font face="verdana" size="3" color="#000000">Bachelors of Technology (B.Tech)</font><br>
-            <font face="verdana" size="3" color="#000000">Computer Science & Engineering</font><b>
-        <font face="verdana" size="2" color="#000000"><br> </font></b>
-        <font face="verdana" size="3" color="#000000"> GPA: 7.43 </font>
-        <font face="verdana" size="2">
-        <font color="#808080">
-        </font></font>
-      </p>
-      </td>
-          </tr>
-    </tbody>
-    </table> 
-    
+      <br>
+	<p> <b><font face="verdana" size="5">News</font></b></p>
+	<p>          
+	<ul>
+            <li> 5/9/2018, I received Robb Award travel fund from EECS department of KU.
+            <li> 4/11/2018, one paper is accpeted by ICPR 2018.
+            <li> 3/1/2018, one paper is accepted by CVPR 2018 as poster.              
+            <li> I had great research intern experiences at Mitsubishi Electric Research Laboratories (MERL)
+                 and Midea Corp. Emerging Technology Center in 2017.
+          </ul></p>
  <br>
-
- <p> <b><a name="education"></a><font face="verdana" size="5">Experience</font></b></p>
- <table id="p" style="border-width: 0px;" border="1" width="1200" height="120"> 
-   <tbody>
-   <tr>
-   <h2>2018</h2>
-     <td style="border-style: none; border-width: medium;" valign="top" width="19">&nbsp; </td>
-     <td style="border-style: none; border-width: medium;" valign="top" bgcolor="#B0E0E6" width="1"> &nbsp; </td>
-     <td style="border-style: none; border-width: medium;" valign="top" width="1100">
-               <p style="margin-left: 10px; line-height: 150%; margin-top: 8px; margin-bottom: 8px;">
-       <i><font face="verdana" color="#000000">The University of Tokyo, Japan</font></i>
-       <font face="verdana"><i><font style="font-size: 12pt;"><br> </font></i></font> 
-       <font face="verdana" size="3" color="#000000">Intern</font><br>
-       <font face="verdana" size="3" color="#000000">Supervisor: Prof. <a href="nakao.iii.u-tokyo.ac.jp/">Akihiro Nakao</a> </font><b>
-       <font face="verdana" size="2" color="#000000"><br> </font></b>
-       <font face="verdana" size="3" color="#000000"> Project: User-defined spectrum scheduling in mobile networks. </font>
-       <font face="verdana" size="2">
-       <font color="#808080">
-       </font></font>
-     </p>
-     </td>
-         </tr>
-   </tbody>
-   </table> 
- <table id="p" style="border-width: 0px;" border="1" width="1200" height="120"> 
-   <tbody>
-   <tr>
-   <h2>2017</h2>
-     <td style="border-style: none; border-width: medium;" valign="top" width="19">&nbsp; </td>
-     <td style="border-style: none; border-width: medium;" valign="top" bgcolor="#B0E0E6" width="1"> &nbsp; </td>
-     <td style="border-style: none; border-width: medium;" valign="top" width="1100">
-               <p style="margin-left: 10px; line-height: 150%; margin-top: 8px; margin-bottom: 8px;">
-       <i><font face="verdana" color="#000000">Scuola Superiore SantAnna, Pisa, Italy</font></i>
-       <font face="verdana"><i><font style="font-size: 12pt;"><br> </font></i></font> 
-       <font face="verdana" size="3" color="#000000">Intern</font><br>
-           <font face="verdana" size="3" color="#000000">Supervisor: Prof. <a href="https://www.santannapisa.it/it/luca-valcarenghi">
-            Luca Valcarenghi</a></font><b>
-       <font face="verdana" size="2" color="#000000"><br> </font></b>
-       <font face="verdana" size="3" color="#000000"> Project: Impact of different virtualization technologies on Mobile Cloud.</font>
-       <font face="verdana" size="2">
-       <font color="#808080">
-       </font></font>
-     </p>
-     </td>
-         </tr>
-   </tbody>
-   </table> 
-   <table id="p" style="border-width: 0px;" border="1" width="1200" height="120"> 
-      <tbody>
-      <tr>
-      <h2>2016</h2>
-        <td style="border-style: none; border-width: medium;" valign="top" width="19">&nbsp; </td>
-        <td style="border-style: none; border-width: medium;" valign="top" bgcolor="#B0E0E6" width="1"> &nbsp; </td>
-        <td style="border-style: none; border-width: medium;" valign="top" width="1100">
-                  <p style="margin-left: 10px; line-height: 150%; margin-top: 8px; margin-bottom: 8px;">
-          <i><font face="verdana" color="#000000">Samsung R&D Institute, Delhi</font></i>
-          <font face="verdana"><i><font style="font-size: 12pt;"><br> </font></i></font> 
-          <font face="verdana" size="3" color="#000000">Intern</font><br>
-              <font face="verdana" size="3" color="#000000">Manager: Mr. Puneet Goyal</a></font><b>
-          <font face="verdana" size="2" color="#000000"><br> </font></b>
-          <font face="verdana" size="3" color="#000000"> Project: Developed a PoC for casting iPhone/iPad’s screen to a Linux machine using Airplay protocol.</font>
-          <font face="verdana" size="2">
-          <font color="#808080">
-          </font></font>
-        </p>
-        </td>
-            </tr>
-      </tbody>
-      </table> 
-      <table id="p" style="border-width: 0px;" border="1" width="1200" height="120"> 
-          <tbody>
-          <tr>
-          <h2>2015</h2>
-            <td style="border-style: none; border-width: medium;" valign="top" width="19">&nbsp; </td>
-            <td style="border-style: none; border-width: medium;" valign="top" bgcolor="#B0E0E6" width="1"> &nbsp; </td>
-            <td style="border-style: none; border-width: medium;" valign="top" width="1100">
-                      <p style="margin-left: 10px; line-height: 150%; margin-top: 8px; margin-bottom: 8px;">
-              <i><font face="verdana" color="#000000">Tata Consultancy Services, Pune</font></i>
-              <font face="verdana"><i><font style="font-size: 12pt;"><br> </font></i></font> 
-              <font face="verdana" size="3" color="#000000">Developer</font><br>
-                  <font face="verdana" size="3" color="#000000">Manager: Mrs. Jaisy Jacob</a></font><b>
-              <font face="verdana" size="2" color="#000000"><br> </font></b>
-              <font face="verdana" size="3" color="#000000"> Project: Worked on development "Risk Engine Framework"  for "Credit Suisse" bank.</font>
-              <font face="verdana" size="2">
-              <font color="#808080">
-              </font></font>
-            </p>
-            </td>
-                </tr>
-          </tbody>
-          </table> 
-   
-<br>
-
  <p> <b><font face="verdana" size="5">Publications</font></b> </p>    
   <table id="p" style="border-width: 0px;" border="1" width="1200" height="120"> 
   <tbody>
