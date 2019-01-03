@@ -1,0 +1,12 @@
+@INPROCEEDINGS{8269216, 
+author={F. Giannone and H. Gupta and K. Kondepu and D. Manicone and A. Franklin and P. Castoldi and L. Valcarenghi}, 
+booktitle={2017 IEEE Globecom Workshops (GC Wkshps)}, 
+title={Impact of RAN Virtualization on Fronthaul Latency Budget: An Experimental Evaluation}, 
+year={2017}, 
+volume={}, 
+number={}, 
+pages={1-5}, 
+keywords={3G mobile communication;5G mobile communication;radio access networks;virtualisation;wireless channels;evolved NodeB functions;DU;CU;virtual RAN approach;virtual machines;fronthaul latency requirements;3GPP;fronthaul latency budget;distributed unit;central unit;new radio access network;5G segment of advanced research on networking testbed;ARNO-5G;Option 7-1 functional split;standard developing organizations;radio channel bandwidth;new RAN virtualization;Jitter;3GPP;Bandwidth;Delays;Radio access networks;5G mobile communication;Virtualization}, 
+doi={10.1109/GLOCOMW.2017.8269216}, 
+ISSN={}, 
+month={Dec},}
