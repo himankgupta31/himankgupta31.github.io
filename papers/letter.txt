@@ -1,0 +1,12 @@
+@ARTICLE{8642354,
+author={F. {Giannone} and K. {Kondepu} and H. {Gupta} and F. {Civerchia} and P. {Castoldi} and A. {Franklin} and L. {Valcarenghi}},
+journal={IEEE Communications Letters},
+title={Impact of Virtualisation Technologies on Virtualised RAN Midhaul Latency Budget: A Quantitative Experimental Evaluation},
+year={2019},
+volume={},
+number={},
+pages={1-1},
+keywords={Containers;Jitter;Metals;Delays;3GPP;Bandwidth;5G mobile communication;5G;functional split;fronthaul;midhaul;virtualisation},
+doi={10.1109/LCOMM.2019.2899308},
+ISSN={1089-7798},
+month={},}
